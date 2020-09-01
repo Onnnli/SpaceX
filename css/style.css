@@ -211,9 +211,8 @@ max-height: 1718px;
   }
 }
 @media (max-width:576px) {
-.features {
-position:absolute;
-}
+
+
 .video{
 width:400px;
 }
