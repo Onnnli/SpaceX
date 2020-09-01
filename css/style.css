@@ -211,12 +211,16 @@ max-height: 1718px;
   }
 }
 @media (max-width:576px) {
+.features {
+
+}
 .video{
 width:400px;
 }
 .overview {
 max-height: 700px;
 height:100%;
+position:absolute;
 }
   .main {
     padding-top: 50px;
