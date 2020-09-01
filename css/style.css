@@ -214,6 +214,10 @@ max-height: 1718px;
 .video{
 width:400px;
 }
+.overview {
+max-height: 700px;
+height:100%;
+}
   .main {
     padding-top: 50px;
   }
