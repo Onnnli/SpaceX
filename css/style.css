@@ -211,6 +211,9 @@ max-height: 1718px;
   }
 }
 @media (max-width:576px) {
+.video{
+width:400px;
+}
   .main {
     padding-top: 50px;
   }
