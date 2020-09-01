@@ -224,10 +224,11 @@ height:100%;
     padding-top: 50px;
   }
   .rocket {
-    position: -webkit-sticky;
+   /* position: -webkit-sticky;
     position: sticky;
     margin-bottom: 30px;
-    padding-left: 40px;
+    padding-left: 40px;*/
+display:none;
   }
   .table {
     margin-bottom: 0;
